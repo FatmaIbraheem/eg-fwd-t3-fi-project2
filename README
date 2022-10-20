@@ -1,0 +1,28 @@
+#########################################################################
+######################### eg-fwd-t3-fi-project2 #########################
+
+*This readme file describes second project deatils. 
+
+#########################################################################
+
+*To create stacks use this command in cli:
+
+./create.sh networkStack network.yml network-parameters.json
+./create.sh serversStack servers.yml server-parameters.json
+
+#########################################################################
+
+*To Update any changes happends in cloudformation use this command in cli:
+
+./update.sh networkStack network.yml network-parameters.json
+./update.sh serversStack servers.yml server-parameters.json
+
+#########################################################################
+
+*URL : http://serve-WebAp-1HMELWYT2EKPZ-535462522.us-east-1.elb.amazonaws.com
+
+
+ 
+
+
+
